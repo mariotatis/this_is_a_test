@@ -1,0 +1,22 @@
+# Startup page for your application
+start_path = '/app'
+
+# Path to the options page (in this case handled by javascript)
+options_path = '/app/Settings'
+
+# Location of bundle url (i.e. from rhohub.com)
+rhobundle_zip_url = 'http://diego.rhohub.com/apps/1268/bundle/ac4f086a-9ec5-4051-8100-58ee2e540815'
+
+# Optional password to access bundle (usually not required)
+rhobundle_zip_pwd = nil
+
+# Rhodes runtime properties
+MinSeverity  = 0
+LogToOutput = 1
+LogCategories = *
+ExcludeLogCategories =
+KeepTrackOfLastVisitedPage = 0 
+LastVisitedPage = ''
+
+# Sync server url.  This must be the full path to your sources.  For example: http://rhomobile.rhohub.com/apps/SugarCRM/sources/
+syncserver = 'http://diego.rhohub.com/apps/Trackr/sources/'
