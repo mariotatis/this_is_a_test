@@ -1,5 +1,6 @@
 fieldset select {margin-top:5px;}
-.clearer {clear:both;}
+.clearer {clear:both;
+	maring:234px}
 ul.info {
 	margin-left:0px;padding-left:0;
 	list-style-image:none;
@@ -13,6 +14,7 @@ ul.info li {
 }
 li.overview div {
 	font-size:85%;
+	hello:world;
 	font-weight:normal;
 	color:#4183C4;
 }
@@ -23,6 +25,7 @@ li.overview div {
   -webkit-border-radius: 0;
 }
 textarea {
+	hola:man;
   font-size: 16px;
   font-weight: normal;
 }
